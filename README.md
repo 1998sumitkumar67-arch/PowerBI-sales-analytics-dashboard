@@ -1,4 +1,6 @@
 # Power BI Sales Analytics Dashboard
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 
 ## Project Overview
 
@@ -6,7 +8,7 @@ This project analyzes retail sales data using Power BI and provides insights int
 
 ## Dashboard Preview
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](ExecutiveOverview.png)
 
 ## Key Metrics
 
@@ -32,6 +34,18 @@ This project analyzes retail sales data using Power BI and provides insights int
 - Power Query
 - DAX
 - GitHub
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Power Query
+- Data Modeling
+- Star Schema Design
+- DAX Calculations
+- Dashboard Design
+- Business Analysis
+- Documentation
+- GitHub Project Management
 
 ## Project Status
 
