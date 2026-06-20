@@ -49,9 +49,11 @@ This project analyzes retail sales data using Power BI and provides insights int
 
 ## Project Status
 
+## Project Status
+
 ✅ Executive Overview Dashboard Completed
 
-🚧 Product Performance Analysis (In Progress)
+✅ Product Performance Analysis Completed
 
 🚧 Customer Analysis Dashboard (Planned)
 
