@@ -110,19 +110,19 @@ Provides geographic analysis of sales and profitability.
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/ExecutiveOverview.png)
+![Executive Overview](ExecutiveOverview.png)
 
 ### Product Performance Analysis
 
-![Product Performance Analysis](Screenshots/ProductPerformanceAnalysis.png)
+![Product Performance Analysis](ProductPerformanceAnalysis.png)
 
 ### Customer Analysis
 
-![Customer Analysis](Screenshots/CustomerAnalysis.png)
+![Customer Analysis](CustomerAnalysis.png)
 
 ### Regional Performance Analysis
 
-![Regional Performance Analysis](Screenshots/RegionalPerformanceAnalysis.png)
+![Regional Performance Analysis](RegionalPerformanceAnalysis.png)
 
 ---
 
